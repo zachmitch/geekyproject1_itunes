@@ -1,0 +1,2573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2015-11-25T05:27:38Z</date>
+	<key>Application Version</key><string>12.3.1.23</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/Zach/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>71FFD964FB76B8AF</string>
+	<key>Tracks</key>
+	<dict>
+		<key>3357</key>
+		<dict>
+			<key>Track ID</key><integer>3357</integer>
+			<key>Name</key><string>U Must Be Crazy (feat. BrandUN Deshay) [Dirty]</string>
+			<key>Artist</key><string>Ken Rebel</string>
+			<key>Album Artist</key><string>Ken Rebel</string>
+			<key>Album</key><string>U Must Be Crazy (feat. BrandUN Deshay) - Single</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5814299</integer>
+			<key>Total Time</key><integer>159112</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2015-07-07T00:35:35Z</date>
+			<key>Date Added</key><date>2015-07-07T00:35:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3529899292</integer>
+			<key>Play Date UTC</key><date>2015-11-09T15:34:52Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-09-03T18:54:32Z</date>
+			<key>Album Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>U Must Be Crazy (feat. BrandUN Deshay) - Single</string>
+			<key>Sort Artist</key><string>Ken Rebel</string>
+			<key>Sort Name</key><string>U Must Be Crazy (feat. BrandUN Deshay) [Dirty]</string>
+			<key>Persistent ID</key><string>8073AE8218B91DF6</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>3367</key>
+		<dict>
+			<key>Track ID</key><integer>3367</integer>
+			<key>Name</key><string>Never Catch Me (feat. Kendrick Lamar)</string>
+			<key>Artist</key><string>Flying Lotus</string>
+			<key>Album Artist</key><string>Flying Lotus</string>
+			<key>Album</key><string>You're Dead!</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8748725</integer>
+			<key>Total Time</key><integer>234486</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-07-07T00:37:11Z</date>
+			<key>Date Added</key><date>2015-07-07T00:37:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3522162363</integer>
+			<key>Play Date UTC</key><date>2015-08-12T01:26:03Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-07-08T03:08:03Z</date>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>You're Dead!</string>
+			<key>Sort Artist</key><string>Flying Lotus</string>
+			<key>Sort Name</key><string>Never Catch Me (feat. Kendrick Lamar)</string>
+			<key>Persistent ID</key><string>64A0A321E944E84A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>3369</key>
+		<dict>
+			<key>Track ID</key><integer>3369</integer>
+			<key>Name</key><string>Dead Man's Tetris (feat. Captain Murphy &#38; Snoop Dogg)</string>
+			<key>Artist</key><string>Flying Lotus</string>
+			<key>Album Artist</key><string>Flying Lotus</string>
+			<key>Album</key><string>You're Dead!</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5670219</integer>
+			<key>Total Time</key><integer>145603</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-07-07T00:37:11Z</date>
+			<key>Date Added</key><date>2015-07-07T00:37:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3531070520</integer>
+			<key>Play Date UTC</key><date>2015-11-23T04:55:20Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-11-18T17:56:12Z</date>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>You're Dead!</string>
+			<key>Sort Artist</key><string>Flying Lotus</string>
+			<key>Sort Name</key><string>Dead Man's Tetris (feat. Captain Murphy &#38; Snoop Dogg)</string>
+			<key>Persistent ID</key><string>4DE7E067D6265EA8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>3397</key>
+		<dict>
+			<key>Track ID</key><integer>3397</integer>
+			<key>Name</key><string>Kill White T…</string>
+			<key>Artist</key><string>Shabazz Palaces</string>
+			<key>Album Artist</key><string>Shabazz Palaces</string>
+			<key>Album</key><string>Shabazz Palaces</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7388780</integer>
+			<key>Total Time</key><integer>206573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2015-07-07T00:37:32Z</date>
+			<key>Date Added</key><date>2015-07-07T00:37:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3528447511</integer>
+			<key>Play Date UTC</key><date>2015-10-23T19:18:31Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Shabazz Palaces</string>
+			<key>Sort Artist</key><string>Shabazz Palaces</string>
+			<key>Sort Name</key><string>Kill White T…</string>
+			<key>Persistent ID</key><string>DBBCA61475CF2D27</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>3411</key>
+		<dict>
+			<key>Track ID</key><integer>3411</integer>
+			<key>Name</key><string>Free Press and Curl</string>
+			<key>Artist</key><string>Shabazz Palaces</string>
+			<key>Album Artist</key><string>Shabazz Palaces</string>
+			<key>Composer</key><string>Shabazz Palaces</string>
+			<key>Album</key><string>Black Up</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9025459</integer>
+			<key>Total Time</key><integer>255440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2015-07-07T00:37:38Z</date>
+			<key>Date Added</key><date>2015-07-07T00:37:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3519390034</integer>
+			<key>Play Date UTC</key><date>2015-07-10T23:20:34Z</date>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Black Up</string>
+			<key>Sort Artist</key><string>Shabazz Palaces</string>
+			<key>Sort Name</key><string>Free Press and Curl</string>
+			<key>Persistent ID</key><string>A8BE46ABE51C7F23</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>3415</key>
+		<dict>
+			<key>Track ID</key><integer>3415</integer>
+			<key>Name</key><string>Are You... Can You... Were You? (Felt)</string>
+			<key>Artist</key><string>Shabazz Palaces</string>
+			<key>Album Artist</key><string>Shabazz Palaces</string>
+			<key>Composer</key><string>Shabazz Palaces</string>
+			<key>Album</key><string>Black Up</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10360275</integer>
+			<key>Total Time</key><integer>287827</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2015-07-07T00:37:38Z</date>
+			<key>Date Added</key><date>2015-07-07T00:37:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Black Up</string>
+			<key>Sort Artist</key><string>Shabazz Palaces</string>
+			<key>Sort Name</key><string>Are You... Can You... Were You? (Felt)</string>
+			<key>Persistent ID</key><string>BF74437C61674AD1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>3429</key>
+		<dict>
+			<key>Track ID</key><integer>3429</integer>
+			<key>Name</key><string>Swerve... The Reeping of All That Is Worthwhile (Noir Not Withstanding)</string>
+			<key>Artist</key><string>Shabazz Palaces</string>
+			<key>Album Artist</key><string>Shabazz Palaces</string>
+			<key>Composer</key><string>Shabazz Palaces</string>
+			<key>Album</key><string>Black Up</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10904542</integer>
+			<key>Total Time</key><integer>309907</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2015-07-07T00:37:38Z</date>
+			<key>Date Added</key><date>2015-07-07T00:37:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Black Up</string>
+			<key>Sort Artist</key><string>Shabazz Palaces</string>
+			<key>Sort Name</key><string>Swerve... The Reeping of All That Is Worthwhile (Noir Not Withstanding)</string>
+			<key>Persistent ID</key><string>6FD6361A0F68983F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>3527</key>
+		<dict>
+			<key>Track ID</key><integer>3527</integer>
+			<key>Name</key><string>Somebody's Gotta Die</string>
+			<key>Artist</key><string>The Notorious B.I.G.</string>
+			<key>Album Artist</key><string>The Notorious B.I.G.</string>
+			<key>Album</key><string>Life After Death (Deluxe Version)</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9456441</integer>
+			<key>Total Time</key><integer>266733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2015-07-10T18:47:14Z</date>
+			<key>Date Added</key><date>2015-07-10T18:47:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3519397445</integer>
+			<key>Play Date UTC</key><date>2015-07-11T01:24:05Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-08-13T23:57:03Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Life After Death (Deluxe Version)</string>
+			<key>Sort Album Artist</key><string>Notorious B.I.G.</string>
+			<key>Sort Artist</key><string>Notorious B.I.G.</string>
+			<key>Sort Name</key><string>Somebody's Gotta Die</string>
+			<key>Persistent ID</key><string>962963316CB6DC51</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>3529</key>
+		<dict>
+			<key>Track ID</key><integer>3529</integer>
+			<key>Name</key><string>Hypnotize</string>
+			<key>Artist</key><string>The Notorious B.I.G.</string>
+			<key>Album Artist</key><string>The Notorious B.I.G.</string>
+			<key>Album</key><string>Life After Death (Deluxe Version)</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8286726</integer>
+			<key>Total Time</key><integer>230040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2015-07-10T18:47:14Z</date>
+			<key>Date Added</key><date>2015-07-10T18:47:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3522911367</integer>
+			<key>Play Date UTC</key><date>2015-08-20T17:29:27Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Life After Death (Deluxe Version)</string>
+			<key>Sort Album Artist</key><string>Notorious B.I.G.</string>
+			<key>Sort Artist</key><string>Notorious B.I.G.</string>
+			<key>Sort Name</key><string>Hypnotize</string>
+			<key>Persistent ID</key><string>3D9069BDA70EF01F</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>3545</key>
+		<dict>
+			<key>Track ID</key><integer>3545</integer>
+			<key>Name</key><string>N****s Bleed</string>
+			<key>Artist</key><string>The Notorious B.I.G.</string>
+			<key>Album Artist</key><string>The Notorious B.I.G.</string>
+			<key>Album</key><string>Life After Death (Deluxe Version)</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10611523</integer>
+			<key>Total Time</key><integer>291040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2015-07-10T18:47:14Z</date>
+			<key>Date Added</key><date>2015-07-10T18:47:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3522913891</integer>
+			<key>Play Date UTC</key><date>2015-08-20T18:11:31Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-09-05T05:16:43Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Life After Death (Deluxe Version)</string>
+			<key>Sort Album Artist</key><string>Notorious B.I.G.</string>
+			<key>Sort Artist</key><string>Notorious B.I.G.</string>
+			<key>Sort Name</key><string>Niggas Bleed</string>
+			<key>Persistent ID</key><string>F76B370A2CDA46C9</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>3605</key>
+		<dict>
+			<key>Track ID</key><integer>3605</integer>
+			<key>Name</key><string>Stronger</string>
+			<key>Artist</key><string>Kanye West</string>
+			<key>Album Artist</key><string>Kanye West</string>
+			<key>Composer</key><string>Kanye West, Thomas Banghalter, Guy Manuel Homen-Cristo &#38; Edwin Birdsong</string>
+			<key>Album</key><string>Graduation</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10890748</integer>
+			<key>Total Time</key><integer>311867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2015-07-10T18:47:46Z</date>
+			<key>Date Added</key><date>2015-07-10T18:47:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3524323519</integer>
+			<key>Play Date UTC</key><date>2015-09-06T01:45:19Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-08-13T23:24:11Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Graduation</string>
+			<key>Sort Artist</key><string>Kanye West</string>
+			<key>Sort Name</key><string>Stronger</string>
+			<key>Persistent ID</key><string>7BD12A2C0E9ACB64</string>
+			<key>Disabled</key><true/>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>3611</key>
+		<dict>
+			<key>Track ID</key><integer>3611</integer>
+			<key>Name</key><string>Can't Tell Me Nothing</string>
+			<key>Artist</key><string>Kanye West</string>
+			<key>Album Artist</key><string>Kanye West</string>
+			<key>Composer</key><string>K. West &#38; A. Davis</string>
+			<key>Album</key><string>Graduation</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9556197</integer>
+			<key>Total Time</key><integer>271600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2015-07-10T18:47:46Z</date>
+			<key>Date Added</key><date>2015-07-10T18:47:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3524324241</integer>
+			<key>Play Date UTC</key><date>2015-09-06T01:57:21Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-08-13T23:24:34Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Graduation</string>
+			<key>Sort Artist</key><string>Kanye West</string>
+			<key>Sort Name</key><string>Can't Tell Me Nothing</string>
+			<key>Persistent ID</key><string>77529B79C5A72401</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>4577</key>
+		<dict>
+			<key>Track ID</key><integer>4577</integer>
+			<key>Name</key><string>Accordian</string>
+			<key>Artist</key><string>Madvillain, Madlib &#38; MF Doom</string>
+			<key>Album Artist</key><string>Madvillain</string>
+			<key>Album</key><string>Madvillainy</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4420772</integer>
+			<key>Total Time</key><integer>118853</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2015-07-21T17:59:23Z</date>
+			<key>Date Added</key><date>2015-07-21T17:59:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3530111081</integer>
+			<key>Play Date UTC</key><date>2015-11-12T02:24:41Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2015-10-24T16:27:05Z</date>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Madvillainy</string>
+			<key>Sort Artist</key><string>Madvillain, Madlib &#38; MF Doom</string>
+			<key>Sort Name</key><string>Accordian</string>
+			<key>Persistent ID</key><string>E7F4B7310BC19CB2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>4579</key>
+		<dict>
+			<key>Track ID</key><integer>4579</integer>
+			<key>Name</key><string>Meat Grinder</string>
+			<key>Artist</key><string>Madvillain, Madlib &#38; MF Doom</string>
+			<key>Album Artist</key><string>Madvillain</string>
+			<key>Album</key><string>Madvillainy</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4961990</integer>
+			<key>Total Time</key><integer>131867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2015-07-21T17:59:23Z</date>
+			<key>Date Added</key><date>2015-07-21T17:59:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3523018529</integer>
+			<key>Play Date UTC</key><date>2015-08-21T23:15:29Z</date>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Madvillainy</string>
+			<key>Sort Artist</key><string>Madvillain, Madlib &#38; MF Doom</string>
+			<key>Sort Name</key><string>Meat Grinder</string>
+			<key>Persistent ID</key><string>943EFEB1FA22E05C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>4585</key>
+		<dict>
+			<key>Track ID</key><integer>4585</integer>
+			<key>Name</key><string>America's Most Blunted (feat. Quasimoto)</string>
+			<key>Artist</key><string>Madvillain, Madlib &#38; MF Doom</string>
+			<key>Album Artist</key><string>Madvillain</string>
+			<key>Album</key><string>Madvillainy</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8487005</integer>
+			<key>Total Time</key><integer>234040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2015-07-21T17:59:23Z</date>
+			<key>Date Added</key><date>2015-07-21T17:59:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3528695802</integer>
+			<key>Play Date UTC</key><date>2015-10-26T16:16:42Z</date>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Madvillainy</string>
+			<key>Sort Artist</key><string>Madvillain, Madlib &#38; MF Doom</string>
+			<key>Sort Name</key><string>America's Most Blunted (feat. Quasimoto)</string>
+			<key>Persistent ID</key><string>DB8BFED00C506557</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>4613</key>
+		<dict>
+			<key>Track ID</key><integer>4613</integer>
+			<key>Name</key><string>All Caps</string>
+			<key>Artist</key><string>Madvillain, Madlib &#38; MF Doom</string>
+			<key>Album Artist</key><string>Madvillain</string>
+			<key>Album</key><string>Madvillainy</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4852472</integer>
+			<key>Total Time</key><integer>130480</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2015-07-21T17:59:23Z</date>
+			<key>Date Added</key><date>2015-07-21T17:59:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3528447264</integer>
+			<key>Play Date UTC</key><date>2015-10-23T19:14:24Z</date>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Madvillainy</string>
+			<key>Sort Artist</key><string>Madvillain, Madlib &#38; MF Doom</string>
+			<key>Sort Name</key><string>All Caps</string>
+			<key>Persistent ID</key><string>D8E6BF5E33D23C2C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>4619</key>
+		<dict>
+			<key>Track ID</key><integer>4619</integer>
+			<key>Name</key><string>Low Class Conspiracy</string>
+			<key>Artist</key><string>Quasimoto</string>
+			<key>Album Artist</key><string>Quasimoto</string>
+			<key>Album</key><string>The Unseen</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5409756</integer>
+			<key>Total Time</key><integer>146200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>25</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2015-07-21T18:03:57Z</date>
+			<key>Date Added</key><date>2015-07-21T18:03:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3528447657</integer>
+			<key>Play Date UTC</key><date>2015-10-23T19:20:57Z</date>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Unseen</string>
+			<key>Sort Artist</key><string>Quasimoto</string>
+			<key>Sort Name</key><string>Low Class Conspiracy</string>
+			<key>Persistent ID</key><string>06CBF11437E673A8</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>4755</key>
+		<dict>
+			<key>Track ID</key><integer>4755</integer>
+			<key>Name</key><string>Bound 2</string>
+			<key>Artist</key><string>Kanye West</string>
+			<key>Album Artist</key><string>Kanye West</string>
+			<key>Composer</key><string>Kanye West, John Stephens, Charlie Wilson, Elon Rutberg, Norman Whiteside, Bobby Massey, Robert Dukes, Che Pope, Cydel Young, Malik Jones, Sakiya Sandifer, Mike Dean &#38; Ronnie Self</string>
+			<key>Album</key><string>Yeezus</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8165220</integer>
+			<key>Total Time</key><integer>229064</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2015-07-23T21:38:51Z</date>
+			<key>Date Added</key><date>2015-07-23T21:38:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3524207517</integer>
+			<key>Play Date UTC</key><date>2015-09-04T17:31:57Z</date>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Yeezus</string>
+			<key>Sort Artist</key><string>Kanye West</string>
+			<key>Sort Name</key><string>Bound 2</string>
+			<key>Persistent ID</key><string>958FB356D67387F5</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>4815</key>
+		<dict>
+			<key>Track ID</key><integer>4815</integer>
+			<key>Name</key><string>Southern Fried</string>
+			<key>Artist</key><string>Killer Mike</string>
+			<key>Album Artist</key><string>Killer Mike</string>
+			<key>Album</key><string>R.A.P. Music</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9731300</integer>
+			<key>Total Time</key><integer>277480</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2015-08-13T23:16:16Z</date>
+			<key>Date Added</key><date>2015-08-13T23:16:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3528525384</integer>
+			<key>Play Date UTC</key><date>2015-10-24T16:56:24Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>R.A.P. Music</string>
+			<key>Sort Artist</key><string>Killer Mike</string>
+			<key>Sort Name</key><string>Southern Fried</string>
+			<key>Persistent ID</key><string>E99921D62104B275</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>4817</key>
+		<dict>
+			<key>Track ID</key><integer>4817</integer>
+			<key>Name</key><string>Thuggin'</string>
+			<key>Artist</key><string>Madlib</string>
+			<key>Album Artist</key><string>Madlib</string>
+			<key>Album</key><string>Thuggin' (feat. Freddie Gibbs) - EP</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7170297</integer>
+			<key>Total Time</key><integer>201893</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2015-08-13T23:16:59Z</date>
+			<key>Date Added</key><date>2015-08-13T23:16:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Date</key><integer>4294963696</integer>
+			<key>Play Date UTC</key><date>1904-01-01T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Thuggin' (feat. Freddie Gibbs) - EP</string>
+			<key>Sort Artist</key><string>Madlib</string>
+			<key>Sort Name</key><string>Thuggin'</string>
+			<key>Persistent ID</key><string>4D943AA1D952A681</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>4823</key>
+		<dict>
+			<key>Track ID</key><integer>4823</integer>
+			<key>Name</key><string>Auditorium (feat. the Ruler)</string>
+			<key>Artist</key><string>Mos Def</string>
+			<key>Album Artist</key><string>Mos Def</string>
+			<key>Album</key><string>The Ecstatic</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9633908</integer>
+			<key>Total Time</key><integer>274480</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2015-08-13T23:20:09Z</date>
+			<key>Date Added</key><date>2015-08-13T23:20:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ecstatic</string>
+			<key>Sort Artist</key><string>Mos Def</string>
+			<key>Sort Name</key><string>Auditorium (feat. the Ruler)</string>
+			<key>Persistent ID</key><string>47442A1A46406BB8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>4881</key>
+		<dict>
+			<key>Track ID</key><integer>4881</integer>
+			<key>Name</key><string>Mathematics</string>
+			<key>Artist</key><string>Mos Def</string>
+			<key>Album Artist</key><string>Mos Def</string>
+			<key>Composer</key><string>D Smith &#38; C. Martin</string>
+			<key>Album</key><string>Black On Both Sides</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8778627</integer>
+			<key>Total Time</key><integer>246440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2015-08-13T23:20:17Z</date>
+			<key>Date Added</key><date>2015-08-13T23:20:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Black On Both Sides</string>
+			<key>Sort Artist</key><string>Mos Def</string>
+			<key>Sort Name</key><string>Mathematics</string>
+			<key>Persistent ID</key><string>89AA1AE88EFFDFFB</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>4885</key>
+		<dict>
+			<key>Track ID</key><integer>4885</integer>
+			<key>Name</key><string>Shiraz</string>
+			<key>Artist</key><string>Action Bronson</string>
+			<key>Album Artist</key><string>Action Bronson</string>
+			<key>Album</key><string>Dr. Lecter</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5563884</integer>
+			<key>Total Time</key><integer>146526</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2015-08-13T23:25:20Z</date>
+			<key>Date Added</key><date>2015-08-13T23:25:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dr. Lecter</string>
+			<key>Sort Artist</key><string>Action Bronson</string>
+			<key>Sort Name</key><string>Shiraz</string>
+			<key>Persistent ID</key><string>6E4F65819D346C3F</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>4887</key>
+		<dict>
+			<key>Track ID</key><integer>4887</integer>
+			<key>Name</key><string>1Train (feat. Kendrick Lamar, Joey Badass, Yelawolf, Danny Brown, Action Bronson &#38; Big K.R.I.T.)</string>
+			<key>Artist</key><string>A$AP Rocky</string>
+			<key>Album Artist</key><string>A$AP Rocky</string>
+			<key>Composer</key><string>N/A</string>
+			<key>Album</key><string>LONG.LIVE.A$AP (Deluxe Version)</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12847358</integer>
+			<key>Total Time</key><integer>372173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2015-08-13T23:25:51Z</date>
+			<key>Date Added</key><date>2015-08-13T23:25:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-11-09T00:25:20Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>LONG.LIVE.A$AP (Deluxe Version)</string>
+			<key>Sort Artist</key><string>A$AP Rocky</string>
+			<key>Sort Name</key><string>1Train (feat. Kendrick Lamar, Joey Badass, Yelawolf, Danny Brown, Action Bronson &#38; Big K.R.I.T.)</string>
+			<key>Persistent ID</key><string>7E9B0A361F4F6DCF</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>4889</key>
+		<dict>
+			<key>Track ID</key><integer>4889</integer>
+			<key>Name</key><string>Waves</string>
+			<key>Artist</key><string>Joey Bada$$</string>
+			<key>Album Artist</key><string>Joey Bada$$</string>
+			<key>Composer</key><string>Not Documented</string>
+			<key>Album</key><string>Waves - Single</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7633006</integer>
+			<key>Total Time</key><integer>213333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2015-08-13T23:26:26Z</date>
+			<key>Date Added</key><date>2015-08-13T23:26:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Waves - Single</string>
+			<key>Sort Artist</key><string>Joey Bada$$</string>
+			<key>Sort Name</key><string>Waves</string>
+			<key>Persistent ID</key><string>6434168D0BD127CD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>4951</key>
+		<dict>
+			<key>Track ID</key><integer>4951</integer>
+			<key>Name</key><string>Rapp Snitch Knishes</string>
+			<key>Artist</key><string>MF Doom featuring Mr. Fantastik</string>
+			<key>Album Artist</key><string>MF Doom</string>
+			<key>Album</key><string>MM...Food</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6256932</integer>
+			<key>Total Time</key><integer>172893</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2015-08-13T23:51:14Z</date>
+			<key>Date Added</key><date>2015-08-13T23:51:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MM...Food</string>
+			<key>Sort Artist</key><string>MF Doom featuring Mr. Fantastik</string>
+			<key>Sort Name</key><string>Rapp Snitch Knishes</string>
+			<key>Persistent ID</key><string>4900B9112E6CC7D2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>4961</key>
+		<dict>
+			<key>Track ID</key><integer>4961</integer>
+			<key>Name</key><string>Liquid Swords</string>
+			<key>Artist</key><string>GZA the Genius &#38; Genius/GZA</string>
+			<key>Album Artist</key><string>GZA the Genius</string>
+			<key>Composer</key><string>Robert F. "Prince Rakeem" Diggs, Edward J. Brigati Jr., Felix Cavaliere, Gary Grice &#38; Joe Zawinul</string>
+			<key>Album</key><string>Liquid Swords</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9820010</integer>
+			<key>Total Time</key><integer>270800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2015-08-13T23:51:43Z</date>
+			<key>Date Added</key><date>2015-08-13T23:51:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-08-15T01:52:30Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Liquid Swords</string>
+			<key>Sort Artist</key><string>GZA the Genius &#38; Genius/GZA</string>
+			<key>Sort Name</key><string>Liquid Swords</string>
+			<key>Persistent ID</key><string>595559780D1CE926</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>4963</key>
+		<dict>
+			<key>Track ID</key><integer>4963</integer>
+			<key>Name</key><string>Duel of the Iron Mic</string>
+			<key>Artist</key><string>GZA the Genius &#38; Genius/GZA</string>
+			<key>Album Artist</key><string>GZA the Genius</string>
+			<key>Composer</key><string>Robert F. "Prince Rakeem" Diggs, GZA/Genius &#38; GZA the Genius</string>
+			<key>Album</key><string>Liquid Swords</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8740779</integer>
+			<key>Total Time</key><integer>246227</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2015-08-13T23:51:43Z</date>
+			<key>Date Added</key><date>2015-08-13T23:51:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3528525630</integer>
+			<key>Play Date UTC</key><date>2015-10-24T17:00:30Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Liquid Swords</string>
+			<key>Sort Artist</key><string>GZA the Genius &#38; Genius/GZA</string>
+			<key>Sort Name</key><string>Duel of the Iron Mic</string>
+			<key>Persistent ID</key><string>F44E4872F5D5315D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>4973</key>
+		<dict>
+			<key>Track ID</key><integer>4973</integer>
+			<key>Name</key><string>4th Chamber</string>
+			<key>Artist</key><string>GZA the Genius &#38; Genius/GZA</string>
+			<key>Album Artist</key><string>GZA the Genius</string>
+			<key>Composer</key><string>Robert F. "Prince Rakeem" Diggs, GZA/Genius &#38; GZA the Genius</string>
+			<key>Album</key><string>Liquid Swords</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9725995</integer>
+			<key>Total Time</key><integer>276968</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2015-08-13T23:51:43Z</date>
+			<key>Date Added</key><date>2015-08-13T23:51:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Liquid Swords</string>
+			<key>Sort Artist</key><string>GZA the Genius &#38; Genius/GZA</string>
+			<key>Sort Name</key><string>4th Chamber</string>
+			<key>Persistent ID</key><string>7A1F44829633A9CA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>4987</key>
+		<dict>
+			<key>Track ID</key><integer>4987</integer>
+			<key>Name</key><string>Monopoly</string>
+			<key>Artist</key><string>Danny Brown</string>
+			<key>Album Artist</key><string>Danny Brown</string>
+			<key>Album</key><string>XXX (Deluxe Version)</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5987345</integer>
+			<key>Total Time</key><integer>164534</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2015-08-13T23:52:41Z</date>
+			<key>Date Added</key><date>2015-08-13T23:52:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>XXX (Deluxe Version)</string>
+			<key>Sort Artist</key><string>Danny Brown</string>
+			<key>Sort Name</key><string>Monopoly</string>
+			<key>Persistent ID</key><string>9A6F6C9AEFCA350C</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5045</key>
+		<dict>
+			<key>Track ID</key><integer>5045</integer>
+			<key>Name</key><string>Tron Cat</string>
+			<key>Artist</key><string>Tyler, The Creator</string>
+			<key>Album Artist</key><string>Tyler, The Creator</string>
+			<key>Album</key><string>Goblin (Deluxe Edition)</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8995254</integer>
+			<key>Total Time</key><integer>253747</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2015-08-13T23:53:25Z</date>
+			<key>Date Added</key><date>2015-08-13T23:53:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3527922228</integer>
+			<key>Play Date UTC</key><date>2015-10-17T17:23:48Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-10-17T17:19:32Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Goblin (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Tyler, The Creator</string>
+			<key>Sort Name</key><string>Tron Cat</string>
+			<key>Persistent ID</key><string>4F711C73B58AD91E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5071</key>
+		<dict>
+			<key>Track ID</key><integer>5071</integer>
+			<key>Name</key><string>Bitch, Don’t Kill My Vibe</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Composer</key><string>Kendrick Duckworth, M. Spears, Braun, Vindahl Friis &#38; Liv Lykke Schmidt</string>
+			<key>Album</key><string>good kid, m.A.A.d city (Deluxe Version)</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10919058</integer>
+			<key>Total Time</key><integer>310758</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2015-08-13T23:54:28Z</date>
+			<key>Date Added</key><date>2015-08-13T23:54:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>good kid, m.A.A.d city (Deluxe Version)</string>
+			<key>Sort Artist</key><string>Kendrick Lamar</string>
+			<key>Sort Name</key><string>Bitch, Don’t Kill My Vibe</string>
+			<key>Persistent ID</key><string>875D029AC4B9A24D</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5073</key>
+		<dict>
+			<key>Track ID</key><integer>5073</integer>
+			<key>Name</key><string>Backseat Freestyle</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Composer</key><string>Kendrick Duckworth &#38; C. Hollis</string>
+			<key>Album</key><string>good kid, m.A.A.d city (Deluxe Version)</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7675375</integer>
+			<key>Total Time</key><integer>212536</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2015-08-13T23:54:28Z</date>
+			<key>Date Added</key><date>2015-08-13T23:54:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>good kid, m.A.A.d city (Deluxe Version)</string>
+			<key>Sort Artist</key><string>Kendrick Lamar</string>
+			<key>Sort Name</key><string>Backseat Freestyle</string>
+			<key>Persistent ID</key><string>C397532491897A4D</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5077</key>
+		<dict>
+			<key>Track ID</key><integer>5077</integer>
+			<key>Name</key><string>Money Trees (feat. Jay Rock)</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Composer</key><string>Kendrick Duckworth, D. Natche, J. McKinzie, V. Garance, A. Legrand &#38; A. Scally</string>
+			<key>Album</key><string>good kid, m.A.A.d city (Deluxe Version)</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>13419758</integer>
+			<key>Total Time</key><integer>386905</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2015-08-13T23:54:28Z</date>
+			<key>Date Added</key><date>2015-08-13T23:54:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>good kid, m.A.A.d city (Deluxe Version)</string>
+			<key>Sort Artist</key><string>Kendrick Lamar</string>
+			<key>Sort Name</key><string>Money Trees (feat. Jay Rock)</string>
+			<key>Persistent ID</key><string>51FF0C4FB93AC5FE</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5105</key>
+		<dict>
+			<key>Track ID</key><integer>5105</integer>
+			<key>Name</key><string>F*ck Your Ethnicity</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Album</key><string>Section.80</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7973204</integer>
+			<key>Total Time</key><integer>224672</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2015-08-13T23:55:10Z</date>
+			<key>Date Added</key><date>2015-08-13T23:55:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3528304623</integer>
+			<key>Play Date UTC</key><date>2015-10-22T03:37:03Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Section.80</string>
+			<key>Sort Artist</key><string>Kendrick Lamar</string>
+			<key>Sort Name</key><string>F*ck Your Ethnicity</string>
+			<key>Persistent ID</key><string>1335802BA107EFE6</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5107</key>
+		<dict>
+			<key>Track ID</key><integer>5107</integer>
+			<key>Name</key><string>Hol' Up</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Album</key><string>Section.80</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6280934</integer>
+			<key>Total Time</key><integer>173158</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2015-08-13T23:55:10Z</date>
+			<key>Date Added</key><date>2015-08-13T23:55:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3524681524</integer>
+			<key>Play Date UTC</key><date>2015-09-10T05:12:04Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Section.80</string>
+			<key>Sort Artist</key><string>Kendrick Lamar</string>
+			<key>Sort Name</key><string>Hol' Up</string>
+			<key>Persistent ID</key><string>E72D134A003B27A2</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5127</key>
+		<dict>
+			<key>Track ID</key><integer>5127</integer>
+			<key>Name</key><string>Rigamortus</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Album</key><string>Section.80</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6129764</integer>
+			<key>Total Time</key><integer>168591</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2015-08-13T23:55:10Z</date>
+			<key>Date Added</key><date>2015-08-13T23:55:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3522425008</integer>
+			<key>Play Date UTC</key><date>2015-08-15T02:23:28Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Section.80</string>
+			<key>Sort Artist</key><string>Kendrick Lamar</string>
+			<key>Sort Name</key><string>Rigamortus</string>
+			<key>Persistent ID</key><string>1BC61278B498EB3E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5167</key>
+		<dict>
+			<key>Track ID</key><integer>5167</integer>
+			<key>Name</key><string>It's Bigger Than Hip Hop</string>
+			<key>Artist</key><string>Dead Prez featuring Tahir &#38; People's Army</string>
+			<key>Album Artist</key><string>Dead Prez</string>
+			<key>Composer</key><string>C. Gavin, L. Alford &#38; K. West</string>
+			<key>Album</key><string>Let's Get Free</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9159881</integer>
+			<key>Total Time</key><integer>235267</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2015-08-13T23:58:14Z</date>
+			<key>Date Added</key><date>2015-08-13T23:58:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Let's Get Free</string>
+			<key>Sort Artist</key><string>Dead Prez featuring Tahir &#38; People's Army</string>
+			<key>Sort Name</key><string>It's Bigger Than Hip Hop</string>
+			<key>Persistent ID</key><string>BE219CE4C6E440D1</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5173</key>
+		<dict>
+			<key>Track ID</key><integer>5173</integer>
+			<key>Name</key><string>Walk Like a Warrior</string>
+			<key>Artist</key><string>Dead Prez</string>
+			<key>Album Artist</key><string>Dead Prez</string>
+			<key>Album</key><string>RBG: Revolutionary But Gangsta</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7565810</integer>
+			<key>Total Time</key><integer>212067</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2015-08-13T23:58:49Z</date>
+			<key>Date Added</key><date>2015-08-13T23:58:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>RBG: Revolutionary But Gangsta</string>
+			<key>Sort Artist</key><string>Dead Prez</string>
+			<key>Sort Name</key><string>Walk Like a Warrior</string>
+			<key>Persistent ID</key><string>708C3F3A4217D7BF</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5397</key>
+		<dict>
+			<key>Track ID</key><integer>5397</integer>
+			<key>Name</key><string>Life Is Good</string>
+			<key>Artist</key><string>Pac Div</string>
+			<key>Album Artist</key><string>Pac Div</string>
+			<key>Album</key><string>The Div</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6933324</integer>
+			<key>Total Time</key><integer>191827</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-18T19:07:38Z</date>
+			<key>Date Added</key><date>2015-08-18T19:07:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3528526041</integer>
+			<key>Play Date UTC</key><date>2015-10-24T17:07:21Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Div</string>
+			<key>Sort Artist</key><string>Pac Div</string>
+			<key>Sort Name</key><string>Life Is Good</string>
+			<key>Persistent ID</key><string>F2E8FB1837AA72F7</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5401</key>
+		<dict>
+			<key>Track ID</key><integer>5401</integer>
+			<key>Name</key><string>Top Down (feat. Casey Veggies &#38; Skeme)</string>
+			<key>Artist</key><string>Pac Div</string>
+			<key>Album Artist</key><string>Pac Div</string>
+			<key>Album</key><string>The Div</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9109889</integer>
+			<key>Total Time</key><integer>260473</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-18T19:07:38Z</date>
+			<key>Date Added</key><date>2015-08-18T19:07:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Div</string>
+			<key>Sort Artist</key><string>Pac Div</string>
+			<key>Sort Name</key><string>Top Down (feat. Casey Veggies &#38; Skeme)</string>
+			<key>Persistent ID</key><string>4F03608866D6B207</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5435</key>
+		<dict>
+			<key>Track ID</key><integer>5435</integer>
+			<key>Name</key><string>Gold Soul Theory</string>
+			<key>Artist</key><string>The Underachievers</string>
+			<key>Album Artist</key><string>The Underachievers</string>
+			<key>Composer</key><string>Marlon Fung, Akeem Joseph &#38; Rich Flyer</string>
+			<key>Album</key><string>Indigoism</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6662840</integer>
+			<key>Total Time</key><integer>183864</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2015-08-18T19:08:29Z</date>
+			<key>Date Added</key><date>2015-08-18T19:08:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3531070374</integer>
+			<key>Play Date UTC</key><date>2015-11-23T04:52:54Z</date>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Indigoism</string>
+			<key>Sort Album Artist</key><string>Underachievers</string>
+			<key>Sort Artist</key><string>Underachievers</string>
+			<key>Sort Name</key><string>Gold Soul Theory</string>
+			<key>Persistent ID</key><string>80D2FCEC334DAC74</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5447</key>
+		<dict>
+			<key>Track ID</key><integer>5447</integer>
+			<key>Name</key><string>Schemin Up (feat. Drake and P. Reign)</string>
+			<key>Artist</key><string>OB OBrien</string>
+			<key>Album Artist</key><string>OB OBrien</string>
+			<key>Album</key><string>Schemin Up (feat. Drake and P. Reign) - Single</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11423421</integer>
+			<key>Total Time</key><integer>330770</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-08-18T19:09:09Z</date>
+			<key>Date Added</key><date>2015-08-18T19:09:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Schemin Up (feat. Drake and P. Reign) - Single</string>
+			<key>Sort Artist</key><string>OB OBrien</string>
+			<key>Sort Name</key><string>Schemin Up (feat. Drake and P. Reign)</string>
+			<key>Persistent ID</key><string>7BFC4DEFE396B70E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5451</key>
+		<dict>
+			<key>Track ID</key><integer>5451</integer>
+			<key>Name</key><string>Oh My Darling Don't Cry</string>
+			<key>Artist</key><string>Run The Jewels</string>
+			<key>Album Artist</key><string>Run The Jewels</string>
+			<key>Album</key><string>Run the Jewels 2</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7313066</integer>
+			<key>Total Time</key><integer>204840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-08-18T19:10:19Z</date>
+			<key>Date Added</key><date>2015-08-18T19:10:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3528524137</integer>
+			<key>Play Date UTC</key><date>2015-10-24T16:35:37Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Run the Jewels 2</string>
+			<key>Sort Artist</key><string>Run The Jewels</string>
+			<key>Sort Name</key><string>Oh My Darling Don't Cry</string>
+			<key>Persistent ID</key><string>86C8906EFFB65650</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5475</key>
+		<dict>
+			<key>Track ID</key><integer>5475</integer>
+			<key>Name</key><string>Snow (My Rap Song)</string>
+			<key>Artist</key><string>Rejjie Snow</string>
+			<key>Album Artist</key><string>Rejjie Snow</string>
+			<key>Composer</key><string>Rejjie Snow, Alex Anyaegbunam, Roofeeo &#38; Jahphet Landis</string>
+			<key>Album</key><string>Rejovich - EP</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7303779</integer>
+			<key>Total Time</key><integer>193136</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2015-08-18T19:22:02Z</date>
+			<key>Date Added</key><date>2015-08-18T19:22:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3523372052</integer>
+			<key>Play Date UTC</key><date>2015-08-26T01:27:32Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-08-26T01:30:39Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rejovich - EP</string>
+			<key>Sort Artist</key><string>Rejjie Snow</string>
+			<key>Sort Name</key><string>Snow (My Rap Song)</string>
+			<key>Persistent ID</key><string>E3B59A20F726BDFE</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5483</key>
+		<dict>
+			<key>Track ID</key><integer>5483</integer>
+			<key>Name</key><string>Ray Gun (feat. DOOM)</string>
+			<key>Artist</key><string>BADBADNOTGOOD &#38; Ghostface Killah</string>
+			<key>Album Artist</key><string>BADBADNOTGOOD &#38; Ghostface Killah</string>
+			<key>Album</key><string>Sour Soul</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6740478</integer>
+			<key>Total Time</key><integer>187398</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-18T19:23:19Z</date>
+			<key>Date Added</key><date>2015-08-18T19:23:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-08-27T19:38:43Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sour Soul</string>
+			<key>Sort Artist</key><string>BADBADNOTGOOD &#38; Ghostface Killah</string>
+			<key>Sort Name</key><string>Ray Gun (feat. DOOM)</string>
+			<key>Persistent ID</key><string>D4F2B110A21E4987</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5507</key>
+		<dict>
+			<key>Track ID</key><integer>5507</integer>
+			<key>Name</key><string>Sookie Now (feat. David Banner)</string>
+			<key>Artist</key><string>Big K.R.I.T.</string>
+			<key>Album Artist</key><string>Big K.R.I.T.</string>
+			<key>Composer</key><string>Justin Scott, Lavell Crump &#38; Phillip Gilbeau</string>
+			<key>Album</key><string>R4 the Prequel - EP</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8951800</integer>
+			<key>Total Time</key><integer>253933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2015-08-18T19:29:23Z</date>
+			<key>Date Added</key><date>2015-08-18T19:29:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>R4 the Prequel - EP</string>
+			<key>Sort Artist</key><string>Big K.R.I.T.</string>
+			<key>Sort Name</key><string>Sookie Now (feat. David Banner)</string>
+			<key>Persistent ID</key><string>91BF026F1A5DD958</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5509</key>
+		<dict>
+			<key>Track ID</key><integer>5509</integer>
+			<key>Name</key><string>The Waters</string>
+			<key>Artist</key><string>Mick Jenkins</string>
+			<key>Album Artist</key><string>Mick Jenkins</string>
+			<key>Album</key><string>The Water[s]</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8943655</integer>
+			<key>Total Time</key><integer>253825</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-08-18T20:40:30Z</date>
+			<key>Date Added</key><date>2015-08-18T20:40:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3528304877</integer>
+			<key>Play Date UTC</key><date>2015-10-22T03:41:17Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Water[s]</string>
+			<key>Sort Artist</key><string>Mick Jenkins</string>
+			<key>Sort Name</key><string>Waters</string>
+			<key>Persistent ID</key><string>130576BFB87CB519</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5511</key>
+		<dict>
+			<key>Track ID</key><integer>5511</integer>
+			<key>Name</key><string>G.O.M.D.</string>
+			<key>Artist</key><string>J. Cole</string>
+			<key>Album Artist</key><string>J. Cole</string>
+			<key>Composer</key><string>pending</string>
+			<key>Album</key><string>2014 Forest Hills Drive</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10519086</integer>
+			<key>Total Time</key><integer>301124</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-08-18T20:40:42Z</date>
+			<key>Date Added</key><date>2015-08-18T20:40:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>2014 Forest Hills Drive</string>
+			<key>Sort Artist</key><string>J. Cole</string>
+			<key>Sort Name</key><string>G.O.M.D.</string>
+			<key>Persistent ID</key><string>8D0FF0DA72F17CC2</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5513</key>
+		<dict>
+			<key>Track ID</key><integer>5513</integer>
+			<key>Name</key><string>Buried Alive</string>
+			<key>Artist</key><string>Logic</string>
+			<key>Album Artist</key><string>Logic</string>
+			<key>Composer</key><string>Sir Robert Hall &#38; David Cunningham</string>
+			<key>Album</key><string>Under Pressure (Deluxe Version)</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11649555</integer>
+			<key>Total Time</key><integer>337737</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-08-18T20:40:53Z</date>
+			<key>Date Added</key><date>2015-08-18T20:40:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Under Pressure (Deluxe Version)</string>
+			<key>Sort Artist</key><string>Logic</string>
+			<key>Sort Name</key><string>Buried Alive</string>
+			<key>Persistent ID</key><string>84812BA40746FB89</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5515</key>
+		<dict>
+			<key>Track ID</key><integer>5515</integer>
+			<key>Name</key><string>Love Don't Live Here No More (feat. Kandace Springs)</string>
+			<key>Artist</key><string>Ghostface Killah</string>
+			<key>Album Artist</key><string>Ghostface Killah</string>
+			<key>Album</key><string>36 Seasons</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8088873</integer>
+			<key>Total Time</key><integer>228117</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>25</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2015-08-18T20:41:08Z</date>
+			<key>Date Added</key><date>2015-08-18T20:41:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>36 Seasons</string>
+			<key>Sort Artist</key><string>Ghostface Killah</string>
+			<key>Sort Name</key><string>Love Don't Live Here No More (feat. Kandace Springs)</string>
+			<key>Persistent ID</key><string>0EE96044DB8B2E3E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5517</key>
+		<dict>
+			<key>Track ID</key><integer>5517</integer>
+			<key>Name</key><string>Hands Up</string>
+			<key>Artist</key><string>Vince Staples</string>
+			<key>Album Artist</key><string>Vince Staples</string>
+			<key>Composer</key><string>Vince Staples &#38; Ernest D. Wilson</string>
+			<key>Album</key><string>Hands Up - Single</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7259991</integer>
+			<key>Total Time</key><integer>202912</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-08-18T20:41:24Z</date>
+			<key>Date Added</key><date>2015-08-18T20:41:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3529120043</integer>
+			<key>Play Date UTC</key><date>2015-10-31T14:07:23Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-09-03T19:10:18Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hands Up - Single</string>
+			<key>Sort Artist</key><string>Vince Staples</string>
+			<key>Sort Name</key><string>Hands Up</string>
+			<key>Persistent ID</key><string>74750222C375AF7C</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5519</key>
+		<dict>
+			<key>Track ID</key><integer>5519</integer>
+			<key>Name</key><string>Norf Norf</string>
+			<key>Artist</key><string>Vince Staples</string>
+			<key>Album Artist</key><string>Vince Staples</string>
+			<key>Composer</key><string>Vince Staples &#38; Michael Volpe</string>
+			<key>Album</key><string>Summertime '06</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6602417</integer>
+			<key>Total Time</key><integer>183165</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-18T20:42:20Z</date>
+			<key>Date Added</key><date>2015-08-18T20:42:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Summertime '06</string>
+			<key>Sort Artist</key><string>Vince Staples</string>
+			<key>Sort Name</key><string>Norf Norf</string>
+			<key>Persistent ID</key><string>8E43F383BCB9F728</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5559</key>
+		<dict>
+			<key>Track ID</key><integer>5559</integer>
+			<key>Name</key><string>Forest Green (feat. Mike G)</string>
+			<key>Artist</key><string>Odd Future</string>
+			<key>Album Artist</key><string>Odd Future</string>
+			<key>Composer</key><string>Michael Griffin &#38; Vyron Turner</string>
+			<key>Album</key><string>The OF Tape, Vol. 2</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6551237</integer>
+			<key>Total Time</key><integer>182013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2015-08-18T20:43:23Z</date>
+			<key>Date Added</key><date>2015-08-18T20:43:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-10-17T17:12:47Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>OF Tape, Vol. 2</string>
+			<key>Sort Artist</key><string>Odd Future</string>
+			<key>Sort Name</key><string>Forest Green (feat. Mike G)</string>
+			<key>Persistent ID</key><string>D7B506739F6ADED8</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5561</key>
+		<dict>
+			<key>Track ID</key><integer>5561</integer>
+			<key>Name</key><string>Jamba (feat. Hodgy Beats)</string>
+			<key>Artist</key><string>Tyler, The Creator</string>
+			<key>Album Artist</key><string>Tyler, The Creator</string>
+			<key>Album</key><string>Wolf</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7573128</integer>
+			<key>Total Time</key><integer>212500</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2015-08-18T20:43:36Z</date>
+			<key>Date Added</key><date>2015-08-18T20:43:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wolf</string>
+			<key>Sort Artist</key><string>Tyler, The Creator</string>
+			<key>Sort Name</key><string>Jamba (feat. Hodgy Beats)</string>
+			<key>Persistent ID</key><string>0955FFCF9223E6CA</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5563</key>
+		<dict>
+			<key>Track ID</key><integer>5563</integer>
+			<key>Name</key><string>Break Even</string>
+			<key>Artist</key><string>Nocando</string>
+			<key>Album Artist</key><string>Nocando</string>
+			<key>Album</key><string>Jimmy the Burnout</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6279875</integer>
+			<key>Total Time</key><integer>175139</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-08-18T20:44:08Z</date>
+			<key>Date Added</key><date>2015-08-18T20:44:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Jimmy the Burnout</string>
+			<key>Sort Artist</key><string>Nocando</string>
+			<key>Sort Name</key><string>Break Even</string>
+			<key>Persistent ID</key><string>869F9CD1C755D13C</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5565</key>
+		<dict>
+			<key>Track ID</key><integer>5565</integer>
+			<key>Name</key><string>Hive (feat. Vince Staples &#38; Casey Veggies)</string>
+			<key>Artist</key><string>Earl Sweatshirt</string>
+			<key>Album Artist</key><string>Earl Sweatshirt</string>
+			<key>Composer</key><string>Vince Staples, Thebe Kgositsile &#38; Casey Jones</string>
+			<key>Album</key><string>Doris</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9696409</integer>
+			<key>Total Time</key><integer>277240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2015-08-18T20:44:46Z</date>
+			<key>Date Added</key><date>2015-08-18T20:44:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Doris</string>
+			<key>Sort Artist</key><string>Earl Sweatshirt</string>
+			<key>Sort Name</key><string>Hive (feat. Vince Staples &#38; Casey Veggies)</string>
+			<key>Persistent ID</key><string>AFDA80D707DD2B0C</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5567</key>
+		<dict>
+			<key>Track ID</key><integer>5567</integer>
+			<key>Name</key><string>93 'Til Infinity</string>
+			<key>Artist</key><string>Souls of Mischief</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Tajai Massey, Opio Lindsey, Opio, Damani Thompson &#38; Adam Carter</string>
+			<key>Album</key><string>Best of da Bay</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10000537</integer>
+			<key>Total Time</key><integer>286507</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2015-08-18T20:45:14Z</date>
+			<key>Date Added</key><date>2015-08-18T20:45:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best of da Bay</string>
+			<key>Sort Artist</key><string>Souls of Mischief</string>
+			<key>Sort Name</key><string>93 'Til Infinity</string>
+			<key>Persistent ID</key><string>029A7A9497A9527E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5569</key>
+		<dict>
+			<key>Track ID</key><integer>5569</integer>
+			<key>Name</key><string>No Tellin'</string>
+			<key>Artist</key><string>Drake</string>
+			<key>Album Artist</key><string>Drake</string>
+			<key>Composer</key><string>A. Graham, Q. Miller, K. Samir, M. Samuels &#38; A. Feeny</string>
+			<key>Album</key><string>If You're Reading This It's Too Late</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10713159</integer>
+			<key>Total Time</key><integer>310929</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-18T20:45:24Z</date>
+			<key>Date Added</key><date>2015-08-18T20:45:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3531245172</integer>
+			<key>Play Date UTC</key><date>2015-11-25T05:26:12Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-08-26T18:15:02Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>If You're Reading This It's Too Late</string>
+			<key>Sort Artist</key><string>Drake</string>
+			<key>Sort Name</key><string>No Tellin'</string>
+			<key>Persistent ID</key><string>0194358FD4930B03</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5575</key>
+		<dict>
+			<key>Track ID</key><integer>5575</integer>
+			<key>Name</key><string>10 Bands</string>
+			<key>Artist</key><string>Drake</string>
+			<key>Album Artist</key><string>Drake</string>
+			<key>Composer</key><string>A. Graham, Q. Miller, M. Samuels, A. Feeny &#38; R. Thomas III</string>
+			<key>Album</key><string>If You're Reading This It's Too Late</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6426422</integer>
+			<key>Total Time</key><integer>177743</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-18T20:45:34Z</date>
+			<key>Date Added</key><date>2015-08-18T20:45:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3531244612</integer>
+			<key>Play Date UTC</key><date>2015-11-25T05:16:52Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>If You're Reading This It's Too Late</string>
+			<key>Sort Artist</key><string>Drake</string>
+			<key>Sort Name</key><string>10 Bands</string>
+			<key>Persistent ID</key><string>B19808D3B01BC225</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5577</key>
+		<dict>
+			<key>Track ID</key><integer>5577</integer>
+			<key>Name</key><string>Know Yourself</string>
+			<key>Artist</key><string>Drake</string>
+			<key>Album Artist</key><string>Drake</string>
+			<key>Composer</key><string>A. Graham, Q. Miller, M. Samuels, A. Hernandez &#38; J. Scruggs</string>
+			<key>Album</key><string>If You're Reading This It's Too Late</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9524595</integer>
+			<key>Total Time</key><integer>275840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-18T20:45:34Z</date>
+			<key>Date Added</key><date>2015-08-18T20:45:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3527616501</integer>
+			<key>Play Date UTC</key><date>2015-10-14T04:28:21Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-10-22T03:10:38Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>If You're Reading This It's Too Late</string>
+			<key>Sort Artist</key><string>Drake</string>
+			<key>Sort Name</key><string>Know Yourself</string>
+			<key>Persistent ID</key><string>2A4AC5A7BE915EFA</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5603</key>
+		<dict>
+			<key>Track ID</key><integer>5603</integer>
+			<key>Name</key><string>Multiply (feat. Juicy J)</string>
+			<key>Artist</key><string>A$AP Rocky</string>
+			<key>Album Artist</key><string>A$AP Rocky</string>
+			<key>Composer</key><string>Rakim Mayers, Anthony Lamont Wharton II, Jordan Houston, Giancarlo Chiaramello, David Brown, Willie Hutchinson, Paul Beauregard, Darnell Carlton, Marlon Goodwin &#38; Premro Smith</string>
+			<key>Album</key><string>Multiply (feat. Juicy J) - Single</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7885230</integer>
+			<key>Total Time</key><integer>223053</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-08-18T20:46:16Z</date>
+			<key>Date Added</key><date>2015-08-18T20:46:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3528525106</integer>
+			<key>Play Date UTC</key><date>2015-10-24T16:51:46Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Multiply (feat. Juicy J) - Single</string>
+			<key>Sort Artist</key><string>A$AP Rocky</string>
+			<key>Sort Name</key><string>Multiply (feat. Juicy J)</string>
+			<key>Persistent ID</key><string>E1C7CC1ED405AF3F</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5605</key>
+		<dict>
+			<key>Track ID</key><integer>5605</integer>
+			<key>Name</key><string>1,2 1,2 (feat. Snoop Dogg)</string>
+			<key>Artist</key><string>Raekwon</string>
+			<key>Album Artist</key><string>Raekwon</string>
+			<key>Composer</key><string>Corey Woods, Calvin Broadus &#38; Elijah Molina</string>
+			<key>Album</key><string>Fly International Luxurious Art</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7231016</integer>
+			<key>Total Time</key><integer>200689</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-18T20:46:39Z</date>
+			<key>Date Added</key><date>2015-08-18T20:46:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-09-04T18:35:28Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Fly International Luxurious Art</string>
+			<key>Sort Artist</key><string>Raekwon</string>
+			<key>Sort Name</key><string>1,2 1,2 (feat. Snoop Dogg)</string>
+			<key>Persistent ID</key><string>3617A628FC43B9AE</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5607</key>
+		<dict>
+			<key>Track ID</key><integer>5607</integer>
+			<key>Name</key><string>Flex (Ooh, Ooh, Ooh)</string>
+			<key>Artist</key><string>Rich Homie Quan</string>
+			<key>Album Artist</key><string>Rich Homie Quan</string>
+			<key>Album</key><string>Flex (Ooh, Ooh, Ooh) - Single</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6389009</integer>
+			<key>Total Time</key><integer>176720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-18T20:46:55Z</date>
+			<key>Date Added</key><date>2015-08-18T20:46:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3527703473</integer>
+			<key>Play Date UTC</key><date>2015-10-15T04:37:53Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Flex (Ooh, Ooh, Ooh) - Single</string>
+			<key>Sort Artist</key><string>Rich Homie Quan</string>
+			<key>Sort Name</key><string>Flex (Ooh, Ooh, Ooh)</string>
+			<key>Persistent ID</key><string>E4EFEE5D24933C99</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5609</key>
+		<dict>
+			<key>Track ID</key><integer>5609</integer>
+			<key>Name</key><string>Want Some More</string>
+			<key>Artist</key><string>Nicki Minaj</string>
+			<key>Album Artist</key><string>Nicki Minaj</string>
+			<key>Composer</key><string>Onika Maraj, Jeremih Felton, Xavier Dotson, Christian Ward &#38; Leland Wayne</string>
+			<key>Album</key><string>The Pinkprint (Deluxe Version)</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8110791</integer>
+			<key>Total Time</key><integer>229625</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-08-18T20:47:06Z</date>
+			<key>Date Added</key><date>2015-08-18T20:47:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pinkprint (Deluxe Version)</string>
+			<key>Sort Artist</key><string>Nicki Minaj</string>
+			<key>Sort Name</key><string>Want Some More</string>
+			<key>Persistent ID</key><string>57F0B541CDED5607</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5651</key>
+		<dict>
+			<key>Track ID</key><integer>5651</integer>
+			<key>Name</key><string>Blessings (feat. Drake)</string>
+			<key>Artist</key><string>Big Sean</string>
+			<key>Album Artist</key><string>Big Sean</string>
+			<key>Composer</key><string>Sean Anderson, ANDERSON HERNANDEZ, Allen Ritter &#38; Aubrey Drake Graham</string>
+			<key>Album</key><string>Dark Sky Paradise (Deluxe)</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8885099</integer>
+			<key>Total Time</key><integer>252044</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-18T20:47:54Z</date>
+			<key>Date Added</key><date>2015-08-18T20:47:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3528524588</integer>
+			<key>Play Date UTC</key><date>2015-10-24T16:43:08Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-10-15T03:19:24Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dark Sky Paradise (Deluxe)</string>
+			<key>Sort Artist</key><string>Big Sean</string>
+			<key>Sort Name</key><string>Blessings (feat. Drake)</string>
+			<key>Persistent ID</key><string>27110E530E7CEEA2</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5653</key>
+		<dict>
+			<key>Track ID</key><integer>5653</integer>
+			<key>Name</key><string>Ni**as in Paris</string>
+			<key>Artist</key><string>Kanye West &#38; JAY Z</string>
+			<key>Album Artist</key><string>JAY Z &#38; Kanye West</string>
+			<key>Composer</key><string>Kanye West, Shawn Carter, Chauncey Hollis, W. A. Donaldson, Mike Dean &#38; JAY Z</string>
+			<key>Album</key><string>Watch the Throne (Deluxe Version)</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7788837</integer>
+			<key>Total Time</key><integer>219333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2015-08-18T20:48:33Z</date>
+			<key>Date Added</key><date>2015-08-18T20:48:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3531071351</integer>
+			<key>Play Date UTC</key><date>2015-11-23T05:09:11Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Watch the Throne (Deluxe Version)</string>
+			<key>Sort Artist</key><string>Kanye West &#38; JAY Z</string>
+			<key>Sort Name</key><string>Ni**as in Paris</string>
+			<key>Persistent ID</key><string>388A3E201FC1AB75</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5687</key>
+		<dict>
+			<key>Track ID</key><integer>5687</integer>
+			<key>Name</key><string>Goldie</string>
+			<key>Artist</key><string>A$AP Rocky</string>
+			<key>Album Artist</key><string>A$AP Rocky</string>
+			<key>Composer</key><string>Rakim Mayers &#38; Chauncey Hollis</string>
+			<key>Album</key><string>LONG.LIVE.A$AP (Deluxe Version)</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6901918</integer>
+			<key>Total Time</key><integer>192067</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2015-08-18T20:49:46Z</date>
+			<key>Date Added</key><date>2015-08-18T20:49:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>LONG.LIVE.A$AP (Deluxe Version)</string>
+			<key>Sort Artist</key><string>A$AP Rocky</string>
+			<key>Sort Name</key><string>Goldie</string>
+			<key>Persistent ID</key><string>D647A124FD34CFA4</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5689</key>
+		<dict>
+			<key>Track ID</key><integer>5689</integer>
+			<key>Name</key><string>Sanctified (feat. Kanye West &#38; Big Sean)</string>
+			<key>Artist</key><string>Rick Ross</string>
+			<key>Album Artist</key><string>Rick Ross</string>
+			<key>Composer</key><string>William Roberts, Kanye West, Sean Anderson, Dijon McFarlane &#38; Mike Dean</string>
+			<key>Album</key><string>Mastermind (Deluxe Version)</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10072557</integer>
+			<key>Total Time</key><integer>289626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-08-18T20:49:57Z</date>
+			<key>Date Added</key><date>2015-08-18T20:49:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3528303688</integer>
+			<key>Play Date UTC</key><date>2015-10-22T03:21:28Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-10-28T23:11:39Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mastermind (Deluxe Version)</string>
+			<key>Sort Artist</key><string>Rick Ross</string>
+			<key>Sort Name</key><string>Sanctified (feat. Kanye West &#38; Big Sean)</string>
+			<key>Persistent ID</key><string>8397666D30A4565D</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5691</key>
+		<dict>
+			<key>Track ID</key><integer>5691</integer>
+			<key>Name</key><string>8 Iz Enuff</string>
+			<key>Artist</key><string>Big L</string>
+			<key>Album Artist</key><string>Big L</string>
+			<key>Composer</key><string>Lamont Coleman, Anthony Best, TeRRa, Herbert Brown, Buddah Bless, Twan, Cameron Giles, Trooper J &#38; Mike Boogie</string>
+			<key>Album</key><string>Lifestylez Ov Da Poor &#38; Dangerous</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10423200</integer>
+			<key>Total Time</key><integer>298840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2015-08-18T20:51:35Z</date>
+			<key>Date Added</key><date>2015-08-18T20:51:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3531071132</integer>
+			<key>Play Date UTC</key><date>2015-11-23T05:05:32Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-11-01T16:46:25Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lifestylez Ov Da Poor &#38; Dangerous</string>
+			<key>Sort Artist</key><string>Big L</string>
+			<key>Sort Name</key><string>8 Iz Enuff</string>
+			<key>Persistent ID</key><string>E81FFDDDA7E4C45E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5693</key>
+		<dict>
+			<key>Track ID</key><integer>5693</integer>
+			<key>Name</key><string>Yay Yay</string>
+			<key>Artist</key><string>ScHoolboy Q</string>
+			<key>Album Artist</key><string>ScHoolboy Q</string>
+			<key>Composer</key><string>Q. Hanley &#38; M. Samuels</string>
+			<key>Album</key><string>Oxymoron (Deluxe Version)</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9526659</integer>
+			<key>Total Time</key><integer>271418</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-08-18T20:53:28Z</date>
+			<key>Date Added</key><date>2015-08-18T20:53:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Oxymoron (Deluxe Version)</string>
+			<key>Sort Artist</key><string>ScHoolboy Q</string>
+			<key>Sort Name</key><string>Yay Yay</string>
+			<key>Persistent ID</key><string>0C7557BFD8828AEA</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5695</key>
+		<dict>
+			<key>Track ID</key><integer>5695</integer>
+			<key>Name</key><string>Canal St. (feat. Bones)</string>
+			<key>Artist</key><string>A$AP Rocky</string>
+			<key>Album Artist</key><string>A$AP Rocky</string>
+			<key>Composer</key><string>N/A</string>
+			<key>Album</key><string>AT.LONG.LAST.A$AP</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7986202</integer>
+			<key>Total Time</key><integer>227431</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-18T20:53:48Z</date>
+			<key>Date Added</key><date>2015-08-18T20:53:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3523516267</integer>
+			<key>Play Date UTC</key><date>2015-08-27T17:31:07Z</date>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>AT.LONG.LAST.A$AP</string>
+			<key>Sort Artist</key><string>A$AP Rocky</string>
+			<key>Sort Name</key><string>Canal St. (feat. Bones)</string>
+			<key>Persistent ID</key><string>AD6D4BCF90F0A677</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5697</key>
+		<dict>
+			<key>Track ID</key><integer>5697</integer>
+			<key>Name</key><string>Electric Body (feat. ScHoolboy Q)</string>
+			<key>Artist</key><string>A$AP Rocky</string>
+			<key>Album Artist</key><string>A$AP Rocky</string>
+			<key>Composer</key><string>N/A</string>
+			<key>Album</key><string>AT.LONG.LAST.A$AP</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8957748</integer>
+			<key>Total Time</key><integer>255252</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-08-18T20:53:55Z</date>
+			<key>Date Added</key><date>2015-08-18T20:53:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3523516522</integer>
+			<key>Play Date UTC</key><date>2015-08-27T17:35:22Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>AT.LONG.LAST.A$AP</string>
+			<key>Sort Artist</key><string>A$AP Rocky</string>
+			<key>Sort Name</key><string>Electric Body (feat. ScHoolboy Q)</string>
+			<key>Persistent ID</key><string>45DEEA68D0627B72</string>
+			<key>Disabled</key><true/>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Chillin</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>11749</integer>
+			<key>Playlist Persistent ID</key><string>EBF39270FC1F64BD</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>4577</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4585</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4613</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4579</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3411</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3397</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4619</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4815</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4817</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3415</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3429</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4755</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3357</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4881</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4823</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3605</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3611</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4885</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4887</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4889</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4951</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4961</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4963</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4973</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4987</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5045</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5073</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5071</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5077</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5107</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5105</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5127</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3527</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3529</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5173</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3367</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3369</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5397</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5401</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5435</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5447</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5451</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5475</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5483</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5507</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5509</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5511</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5513</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5517</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5519</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5559</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5561</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5563</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5565</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5567</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5569</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5603</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5605</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5607</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5609</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5651</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5575</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5653</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5687</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5689</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5691</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3357</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5693</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5695</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5697</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5577</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

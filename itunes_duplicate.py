@@ -5,7 +5,12 @@
 #I highly recommend buying this fun, project-based book:  
 #http://www.amazon.com/Python-Playground-Projects-Curious-Programmer-ebook/dp/B017AH8H7I/ref=mt_kindle?_encoding=UTF8&me=
 
+import re, argparse
+import sys
+from matplotlib import pyplot
 import plistlib
+import numpy as np
+
 
 
 
@@ -152,7 +157,7 @@ def plotStats(fileName):
 	#ensure that valid data was collected
 	if ratings == [] or durations == []:
 		print('No valid Album Rating/Total Time data in %s.' % fileName)
-			return
+		return
 
 
 #- - - - - - - - - - - - - - - - PLOTTING STATS - - - - - - - - - - - - - - 
@@ -176,3 +181,40 @@ def plotStats(fileName):
 	
 	#show plot
 	pyplot.show()
+	
+	
+#- - - - - - - - - - - - -COMMAND LINE - - - - - - - - - - - - - 
+
+
+def main():
+	# create parser
+	descStr = '''
+	This program analyzes iTunes playlist files (.xml).'''
+	
+	parser = argparse.ArgumentParser(description=descStr, add_help=False)
+	#add mutually exclusive group of arguments
+	group = parser.add_mutually_exclusive_group()
+	
+	#add expected arguments
+	group .add_argument('--common', nargs = '*', dest='plFiles', required=False)
+	group .add_argument('--stats', dest = 'plFile', required=False)
+	group .add_argument('--dup', dest = 'plFileD', required=False)
+	
+	#parse args
+	args = parser.parse_args()
+	
+	if args.plFiles:
+		#find common tracks
+		findCommonTracks(args.plFiles)
+	elif args.plFile:
+		#plot stats
+		plotStats(args.plFile)
+	elif args.plFileD:
+		#find duplicates
+		findDuplicates(args.plFileD)
+	else:
+		print("These are not the tracks you are looking for.")
+
+# main method
+if __name__ == '__main__':
+	main()
